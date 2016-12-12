@@ -6,7 +6,9 @@
 
 * The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines.
 
-## This follows the book, *[An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)* by:
+## This follows the book,
+## *[An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)*
+by:
 
  - [Gareth James](http://www-bcf.usc.edu/~gareth/),
  - [Daniela Witten](http://www.biostat.washington.edu/~dwitten/),
